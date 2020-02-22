@@ -1,0 +1,24 @@
+{
+  "name": "Node.js-Docker-Auth",
+  "version": "1.0.0",
+  "description": "Node.js-Docker-Auth",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxiCB/Node.js-Docker-Auth.git"
+  },
+  "keywords": [],
+  "author": "Aaron C. Beasley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxiCB/Node.js-Docker-Auth/issues"
+  },
+  "homepage": "https://github.com/MaxiCB/Node.js-Docker-Auth#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
